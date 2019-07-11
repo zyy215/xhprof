@@ -115,14 +115,5 @@ function disableXhprof()
     $run_id = $xhprof_runs->save_run($xhprof_data, "xhprof_foo");
     #echo $run_id;
 }
-```
-
-#### 具体展示图
-
-![image-20190711173740994](/Users/zyy/Library/Application Support/typora-user-images/image-20190711173740994.png)
-
-![image-20190711174430970](/Users/zyy/Library/Application Support/typora-user-images/image-20190711174430970.png)
 
 
-
-![image-20190711174501977](/Users/zyy/Library/Application Support/typora-user-images/image-20190711174501977.png)
