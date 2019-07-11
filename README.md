@@ -65,7 +65,7 @@ php -m | grep xhprof
         }
 	}
 //修改hosts
-	127.0.0.1       xhprof.xin.com
+	127.0.0.1       xhprof.test.com
 ```
 
 ### Reload Nginx
