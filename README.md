@@ -83,7 +83,7 @@ php -m | grep xhprof
 
 关于xhprof的使用有两种方式
 
-1.在入口文件(即：Public/index.php)文件加入
+1.在入口文件加入
 
 ```
 xhprof_enable(XHPROF_FLAGS_MEMORY | XHPROF_FLAGS_CPU);
