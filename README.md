@@ -13,7 +13,7 @@
 ### Installation
 
 ```
-git clone https://github.com/longxinH/xhprof.git ./xhprof
+git clone https://github.com/zyy215/xhprof.git ./xhprof
 cd xhprof/extension/
 /usr/local/Cellar/php@7.2/7.2.18/bin/phpize
 ./configure --with-php-config=/usr/local/Cellar/php@7.2/7.2.18/bin/php-config
