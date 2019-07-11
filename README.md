@@ -48,7 +48,7 @@ php -m | grep xhprof
 //Xhprof域名配置
 	server {
         listen 80;
-        server_name xhprof.xin.com;
+        server_name xhprof.test.com;
         #access_log logs/xhprof.access.log;
         autoindex on;
         location / {
